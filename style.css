@@ -1,0 +1,12 @@
+body{
+    background-color: #c029ac;
+    font-family: math;
+}
+
+#content{
+    background-color: #ffffff;
+    border: solid #ae00ff;
+    border-width: 10px;
+    width: 100px;
+    padding: 5px;
+}
